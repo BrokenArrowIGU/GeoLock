@@ -17,8 +17,8 @@
 // ================= Definitons for get the time ====================== //
 
 // network credentials for connection on NTP Server
-const char *ssid = "Moto G Play 4241";  //Set your SSID here
-const char *pass = "silva9942";         //Set your password
+const char *ssid = "";  //Set your SSID here
+const char *pass = "";         //Set your password
 
 // Set NTP Client for time
 WiFiUDP ntpUDP;
