@@ -35,7 +35,7 @@ def position(t1,t2,t3,x_1,x_2,x_3,y_1,y_2,y_3,E_1,E_2,E_3,x_m,y_m):
     return r_m
 
 # ============================== Space for Input ==============================
-d_1 = pd.read_csv(r'C:\Users\Usuario\Documents\dadosposition.csv',encoding = 'UTF-8' ,delimiter = ';',decimal = ',')
+d_1 = pd.read_csv(r'',encoding = 'UTF-8' ,delimiter = ';',decimal = ',')
 # ============================== Start Definition =============================
 lenof = len(d_1)-1
 
